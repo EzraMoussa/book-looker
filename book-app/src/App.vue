@@ -2,7 +2,7 @@
   <v-app>
 
 
-      <div id="content">
+      <div class="content">
 
         <v-flex v-if="currentPage == 'Home'" sm10>
             <v-btn text large color="#00b9be">Home</v-btn>
@@ -16,6 +16,10 @@
 
       <home v-if="currentPage == 'Home'" id="home" />
       <isbn v-if="currentPage == 'ISBN'" id="isbn" />
+
+      
+      
+      
       </div>
 
     
@@ -52,7 +56,6 @@ export default {
 </script>
 
 <style>
-
 
 
 

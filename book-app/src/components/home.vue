@@ -1,8 +1,5 @@
 <template lang="html">
 
-  
-
-
   <div id="home">
 
     
@@ -61,7 +58,7 @@
     <v-container fluid grid-list-md>
           <v-layout row wrap>
             <v-flex
-              xs12
+              x9
               md6
               lg4
              v-for="(book, key) in loopData" v-bind:key="key"
@@ -170,6 +167,7 @@
             </v-flex>
           </v-layout>
         </v-container>
+
 
 </div>
 
