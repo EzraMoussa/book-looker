@@ -1,7 +1,9 @@
 # Book Looker
 A sleek web app with the express purpose of looking up books.
 
-<img src="https://i.imgur.com/pzXgpCP.png" width=60%>
+Go to books.ezramoussa.com or books.edavalos.com
+
+<img src="https://i.imgur.com/Bwd3fPY.png" width=60%>
 
 ## Background
 This app uses the Google Books API to return and display a list of book requests. While it is not a search engine of its own, it does provide an elegant view of the Google Books virtual library, and has some nice tools regarding ISBNs. This project has mainly served us as practice for creating web apps and using Json APIs.
