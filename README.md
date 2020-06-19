@@ -1,7 +1,7 @@
 # Book Looker
 A sleek web app with the express purpose of looking up books.
 
-Go to books.ezramoussa.com or books.edavalos.com
+URl: [books.ezramoussa.com](books.ezramoussa.com) or [books.edavalos.com](books.edavalos.com)
 
 <img src="https://i.imgur.com/Bwd3fPY.png" width=60%>
 
